@@ -1,0 +1,11 @@
+.footer {
+  display: block;
+  width: 100%;
+  padding: 40px 0;
+  border-top: 1px solid rgba(33, 33, 33, 0.4);
+}
+
+.footer__copyright {
+  margin: 0;
+  text-align: center;
+}
