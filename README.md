@@ -22,10 +22,16 @@ It includes a profile section, photo cards, and interactive buttons.
 - Custom fonts (Poppins)
 - Deployed with GitHub Pages
 
+## Preview
+
+Project screenshot! (./images/project-preview.png)
+
 ## Deployment
 
 Live website:
 https://imgitting.github.io/se_project_spots/
+
+## Project video
 
 ## Author
 
