@@ -33,7 +33,7 @@ https://imgitting.github.io/se_project_spots/
 
 ## Project video
 
-check out this video (https://drive.google.com/file/d/1MZ6Ro_oY5jaM5cLxgUmRjGoK32Omk96d/view?usp=drive_link), where I describe my project and some challenges I faced while building it.
+check out this video (https://drive.google.com/file/d/1MZ6Ro_oY5jaM5cLxgUmRjGoK32Omk96d/view?usp=sharing), where I describe my project and some challenges I faced while building it.
 
 ## Author
 
